@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CT01</string>
+
+    <string name="name">Nishchal Kutarekar - 15IE33004</string>
+    <string name="Title">RTSP Andorid Class Test - Problem1</string>
+
+    <string name="axValue">X-axis: </string>
+    <string name="ayValue">Y-axis: </string>
+    <string name="azValue">Z-axis: </string>
+</resources>
